@@ -1,0 +1,10 @@
+content_image_dir: 'G:/SaMST_official/content/'
+content_scale: ~
+output_image_dir: 'G:/SaMST_official/outputs/'
+
+model: 'G:/SaMST_official/checkpoint/epoch_20.model'
+
+style_num: 10
+
+cuda: 1
+
