@@ -6,7 +6,7 @@ Pytorch implementation of paper *Pluggable Style Representation Learning for Mul
 
 Visual examples:
 
-![teaserfig](Figs\teaserfig.png)
+![teaserfig](Figs/teaserfig.png)
 
 ## Installation
 
